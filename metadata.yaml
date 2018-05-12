@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26313'
     url: http://www.gutenberg.org/2009/agents/26313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25007#Fifty-Soups
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
